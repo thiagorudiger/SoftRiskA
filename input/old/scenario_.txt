@@ -1,0 +1,27 @@
+#Number of Scenarios
+1000
+
+#Rate
+0.1
+
+#Num MMFs
+1
+
+#MMFs
+A 
+
+#Sucessors
+Elements:
+A: 
+
+#SimulationFlag
+TRIANGULAR
+
+#Periods
+8
+
+#Value Periodos
+Values:
+A: 1,2,3 1,2,3 1,2,3 1,2,3 1,2,3 1,2,3 1,2,3 1,2,3 
+
+#EndOfFile

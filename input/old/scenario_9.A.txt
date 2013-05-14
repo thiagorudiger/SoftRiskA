@@ -1,0 +1,27 @@
+#Number of Scenarios
+1000
+
+#Rate
+0
+
+#Num MMFs
+5
+
+#MMFs
+A
+
+#Sucessors
+Elements:
+A: 
+
+#SimulationFlag
+BROWNIAN_MOTION_A
+
+#Periods
+8
+
+#Value Periodos
+Values:
+A: -100, 80, 0,167, 1
+
+#EndOfFile

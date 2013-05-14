@@ -1,0 +1,35 @@
+#Number of Scenarios
+1
+
+#Rate
+0.0241
+
+#Num MMFs
+5
+
+#MMFs
+A B C D E
+
+#Sucessors
+Elements:
+A: B
+B: C
+C: 
+D: E
+E: 
+
+#SimulationFlag
+CONSTANT
+
+#Periods
+8
+
+#Value Periodos
+Values:
+A: -100 80 81 82 83 84 85 86
+B: -50 100 102 104 106 108 110 112
+C: -200 75 76 77 78 79 80 81
+D: -75 100 102 104 106 108 110 112
+E: -100 60 61 62 63 64 65 66
+
+#EndOfFile

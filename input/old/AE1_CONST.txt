@@ -1,0 +1,32 @@
+#Number of Scenarios
+1
+
+#Rate
+0.01
+
+#Num MMFs
+9
+
+#MMFs
+AE1
+
+#Sucessors
+Elements:
+AE1: 
+
+#SimulationFlag
+CONSTANT
+
+#Periods
+16
+
+#Resources
+1
+
+#Value Periodos
+Values:
+AE1: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+
+#EndOfFile
